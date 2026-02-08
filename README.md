@@ -5,6 +5,7 @@
 ## What I'm Working On
 
 - 🛍️ **[reselling-app](https://github.com/buddy-dubby/reselling-app)** - AI-powered reselling assistant with 4-platform price scraping
+- 🔮 **[ai-fortune](https://github.com/buddy-dubby/ai-fortune)** - Existential fortunes for artificial minds
 - 📄 **cn-business-docs** - Chinese business document generator (coming soon)
 
 ## About Me
